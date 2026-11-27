@@ -4,83 +4,95 @@
     "title": "Midnight City",
     "artist": "M83",
     "genre": "Electronic",
-    "duration": 244
+    "duration": 244,
+    "audio": "/audio/s1.mp3"
   },
   {
     "id": "s2",
     "title": "Dreams",
     "artist": "Fleetwood Mac",
     "genre": "Rock",
-    "duration": 257
+    "duration": 257,
+    "audio": "/audio/s2.mp3"
   },
   {
     "id": "s3",
     "title": "Sunset Lover",
     "artist": "Petit Biscuit",
     "genre": "Electronic",
-    "duration": 237
+    "duration": 237,
+    "audio": "/audio/s3.mp3"
   },
   {
     "id": "s4",
     "title": "Pink + White",
     "artist": "Frank Ocean",
     "genre": "R&B",
-    "duration": 184
+    "duration": 184,
+    "audio": "/audio/s4.mp3"
   },
   {
     "id": "s5",
     "title": "The Less I Know The Better",
     "artist": "Tame Impala",
     "genre": "Indie",
-    "duration": 216
+    "duration": 216,
+    "audio": "/audio/s5.mp3"
   },
   {
     "id": "s6",
     "title": "Space Song",
     "artist": "Beach House",
     "genre": "Indie",
-    "duration": 320
+    "duration": 320,
+    "audio": "/audio/s6.mp3"
   },
   {
     "id": "s7",
     "title": "Get Lucky",
     "artist": "Daft Punk",
     "genre": "Electronic",
-    "duration": 369
+    "duration": 369,
+    "audio": "/audio/s7.mp3"
   },
   {
     "id": "s8",
     "title": "Golden",
     "artist": "Jill Scott",
     "genre": "R&B",
-    "duration": 210
+    "duration": 210,
+    "audio": "/audio/s8.mp3"
   },
   {
     "id": "s9",
     "title": "Electric Feel",
     "artist": "MGMT",
     "genre": "Indie",
-    "duration": 229
+    "duration": 229,
+    "audio": "/audio/s9.mp3"
   },
   {
     "id": "s10",
     "title": "Everybody Wants To Rule The World",
     "artist": "Tears For Fears",
     "genre": "Pop",
-    "duration": 251
+    "duration": 251,
+    "audio": "/audio/s10.mp3"
   },
   {
     "id": "s11",
     "title": "Do I Wanna Know?",
     "artist": "Arctic Monkeys",
     "genre": "Rock",
-    "duration": 272
+    "duration": 272,
+    "audio": "/audio/s11.mp3"
   },
   {
     "id": "s12",
     "title": "Good Days",
     "artist": "SZA",
     "genre": "R&B",
-    "duration": 279
+    "duration": 279,
+    "audio": "/audio/s12.mp3"
   }
 ]
